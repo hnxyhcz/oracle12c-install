@@ -33,6 +33,8 @@ chmod +x oracle_install.sh
 #### Oracle 12C安装包下载
 [百度网盘](https://pan.baidu.com/s/1YvgmT0_Pm7y4O2XOxlFc3g)
 
+[官网下载](http://download.oracle.com/otn/linux/oracle12c/122010/linuxx64_12201_database.zip)
+
 #### 支持系统
 <font color=red size=2>注: 脚本已在CentOS 7.x进行测试。如果有其他什么问题，请提交 `issues`反馈</font> 
 - CentOS 7 64/32
